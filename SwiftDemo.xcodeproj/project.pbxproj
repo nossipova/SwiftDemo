@@ -6,11 +6,44 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		38270F7519D7211F0009F0A5 /* Closures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Closures.playground; sourceTree = "<group>"; };
+		38270F7619D7211F0009F0A5 /* Expressions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Expressions.playground; sourceTree = "<group>"; };
+		38270F7719D7211F0009F0A5 /* FunctionalProgramming.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FunctionalProgramming.playground; sourceTree = "<group>"; };
+		38270F7919D7211F0009F0A5 /* TypeConstraints.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TypeConstraints.playground; sourceTree = "<group>"; };
+		38270F7E19D7211F0009F0A5 /* OperatorOverloading.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = OperatorOverloading.playground; sourceTree = "<group>"; };
+		38270F7F19D7211F0009F0A5 /* Tuples.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Tuples.playground; sourceTree = "<group>"; };
+		38270F8019D7211F0009F0A5 /* TypeCasting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TypeCasting.playground; sourceTree = "<group>"; };
+		38270F8119D7211F0009F0A5 /* TypeInference1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TypeInference1.playground; sourceTree = "<group>"; };
+		38270F8219D7211F0009F0A5 /* TypeInference2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TypeInference2.playground; sourceTree = "<group>"; };
+		38270F8319D721920009F0A5 /* Functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Functions.playground; sourceTree = "<group>"; };
+		38270F8419D721920009F0A5 /* SwitchStatement.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SwitchStatement.playground; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		38270F6E19D720C10009F0A5 = {
 			isa = PBXGroup;
 			children = (
+				38270F8119D7211F0009F0A5 /* TypeInference1.playground */,
+				38270F8219D7211F0009F0A5 /* TypeInference2.playground */,
+				38270F7E19D7211F0009F0A5 /* OperatorOverloading.playground */,
+				38270F8319D721920009F0A5 /* Functions.playground */,
+				38270F7519D7211F0009F0A5 /* Closures.playground */,
+				38270F7919D7211F0009F0A5 /* TypeConstraints.playground */,
+				38270F7719D7211F0009F0A5 /* FunctionalProgramming.playground */,
+				38270F8519D722240009F0A5 /* Slides */,
 			);
+			sourceTree = "<group>";
+		};
+		38270F8519D722240009F0A5 /* Slides */ = {
+			isa = PBXGroup;
+			children = (
+				38270F8019D7211F0009F0A5 /* TypeCasting.playground */,
+				38270F7F19D7211F0009F0A5 /* Tuples.playground */,
+				38270F7619D7211F0009F0A5 /* Expressions.playground */,
+				38270F8419D721920009F0A5 /* SwitchStatement.playground */,
+			);
+			name = Slides;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
